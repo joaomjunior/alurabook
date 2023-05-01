@@ -123,7 +123,7 @@
 @media screen and (min-width: 1300px) {
     .carrossel__container {
         display: flex;
-        margin: 0 16vw 3em 16vw;
+        margin: 0 13vw 3em 13vw;
         align-items: center;
     }
 
