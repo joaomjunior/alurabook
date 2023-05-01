@@ -137,25 +137,27 @@
 
     .card {
         width: 40%;
-        margin: 1em 0 1em 3em;
-        padding: 0 1em  0.5em;
+        margin: 4em 0 1em 3em;
+        padding: 0 1em  0.5em 1em;
     }
 
+
     .descricao {
-        margin: 2em 0 0 0;
+        margin: 1em 0 0 0;
     }
 
     .descricao__imagem {
-        width: 30%;
+        width: 35%;
+        padding: 0.5em 0 1em 4em;
     }
 
     .botoes {
         width: 1%;
     }
 
-
     .botoes__ancora {
-        width: 13.5%;
-        font-size: 0.8rem;
+        width: 21.3%;
+        font-size: 0.9rem;
+        padding: 1em 1.9em;
     }
 }
